@@ -1,11 +1,15 @@
 {
-    "name": "anlutro/l4-settings",
+    "name": "windstep/l5-settings",
     "description": "Persistent settings in Laravel.",
     "license": "MIT",
     "authors": [
         {
             "name": "Andreas Lutro",
             "email": "anlutro@gmail.com"
+        },
+        {
+            "name": "Sergey Popov",
+            "email": "icq431@yandex.ru"
         }
     ],
     "require": {
